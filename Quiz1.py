@@ -1,3 +1,8 @@
+# Author: Qi Jinyu
+# Date: 2025-04-02
+# Description: This program is an animal quiz game.
+
+
 # NUIST Quiz Game in Python
 def quiz():
     print("Welcome to the Animal Quiz!")
